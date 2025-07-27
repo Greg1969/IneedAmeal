@@ -25,7 +25,7 @@ export default function Home() {
               <br />
               <span className="text-primary-glow">Delivered with Dignity</span>
             </h1>
-            <p className="text-xl text-white/90 mb-8 leading-relaxed">
+            <p className="text-xl text-black/90 mb-8 leading-relaxed">
               A Niagara-based pilot project offering free and discounted comfort food delivery 
               to those facing short-term food insecurity. Private, member-based, community-driven.
             </p>
