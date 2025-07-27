@@ -11,6 +11,7 @@ export function Navigation() {
   const navigation = [
     { name: "Home", href: "/" },
     { name: "About", href: "/about" },
+    { name: "Menu", href: "/menu" },
     { name: "Membership", href: "/membership" },
     { name: "Schedule Meal", href: "/schedule" },
     { name: "Contact", href: "/contact" },
@@ -35,6 +36,9 @@ export function Navigation() {
               <Heart className="h-6 w-6 text-primary" />
               I Need A Meal
             </Link>
+            <div className="ml-12 text-sm text-muted-foreground">
+              <span className="font-medium">Start Date:</span> August 10th
+            </div>
           </div>
 
           {/* Desktop navigation */}
