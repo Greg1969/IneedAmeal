@@ -185,7 +185,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-medium text-foreground">Support Hours</h4>
                     <p className="text-muted-foreground">
-                      Monday - Friday: 9:00 AM - 5:00 PM<br />
+                      Monday - Friday: 9:00 AM - 7:00 PM<br />
                       Emergency support available for delivery issues
                     </p>
                   </div>
