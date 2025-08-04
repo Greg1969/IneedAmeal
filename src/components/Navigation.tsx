@@ -7,6 +7,12 @@ export function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const location = useLocation();
   const navigation = [{
+    name: "Login",
+    href: "/login"
+  }, {
+    name: "Admin",
+    href: "/admin"
+  }, {
     name: "Home",
     href: "/"
   }, {
